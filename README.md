@@ -73,7 +73,7 @@
 ---
 <!--LEETCODE STATUS-->
 <!---->
-![](https://leetcard.jacoblin.cool/ajay_pandey?ext=heatmap)
+![](https://leetcard.jacoblin.cool/ajay_pandey?ext=activity)
 
 ---
 
