@@ -72,8 +72,9 @@
 
 ---
 <!--LEETCODE STATUS-->
-![](https://leetcard.jacoblin.cool/ajay_pandey?ext=activity)
 <!---->
+![](https://leetcard.jacoblin.cool/ajay_pandey?ext=activity)
+
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
