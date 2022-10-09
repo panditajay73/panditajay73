@@ -73,6 +73,7 @@
 
 ---
 ![](https://leetcode.com/ajay_pandey?theme=unicorn)
+![](https://leetcard.jacoblin.cool/ajay_pandey?theme=unicorn)
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
