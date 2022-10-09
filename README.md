@@ -47,8 +47,7 @@
 <!---->
 <a href="https://www.hackerrank.com/ajaypandey000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panditajay73" height="30" width="40" /></a>
 <!---->
-<a href="https://www.hackerrank.com/ajaypandey000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="panditajay73" height="30" width="40" /></a>
-<!---->
+
 </p>
 
 ---
@@ -72,8 +71,8 @@
 
 
 ---
-![](https://leetcode.com/ajay_pandey?theme=unicorn)
-![](https://leetcard.jacoblin.cool/ajay_pandey?theme=unicorn)
+![](https://leetcard.jacoblin.cool/ajay_pandey?ext=activity)
+
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
