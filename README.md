@@ -25,7 +25,9 @@
 ✔️ I have experience in FULL stack web development .<br>
 
  ✔️ I have experience in Python Technology .<br>
+ 
  ✔️ I have experience in Java Technology .<br>
+ 
  ✔️ I have experience in PHP Technology .<br>
 
 <br>
@@ -69,6 +71,9 @@
 
 
 
+---
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
