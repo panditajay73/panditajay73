@@ -18,17 +18,17 @@
 <!--ABOUT ME CODE-->
 🌱 **About Myself**<br> 
 
-✔️ I am **Ajay Pandey**, currently pursuing my bachelors from KIET Group of Institutions, Ghaziabad in *Information Technology*. <br>
+✔️ I am **Ajay Pandey**, currently pursuing my bachelors from **KIET Group of Institutions, Ghaziabad** in **Information Technology**. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in FULL stack web development .<br>
+✔️ I have experience in **FULL stack web development** .<br>
 
- ✔️ I have experience in Python Technology .<br>
+ ✔️ I have experience in **Python Technology** .<br>
  
- ✔️ I have experience in Java Technology .<br>
+ ✔️ I have experience in **Java Technology** .<br>
  
- ✔️ I have experience in PHP Technology .<br>
+ ✔️ I have experience in **PHP Technology** .<br>
 
 <br>
 
@@ -55,8 +55,6 @@
 <!--LANGUAGES AND TOOLS-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<!----> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!----> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <!----> 
