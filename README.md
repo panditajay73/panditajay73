@@ -109,11 +109,7 @@
          
 
 ---
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=panditajay73&theme=react-dark)](https://github.com/panditajay73/github-readme-activity-graph)
 
----
   </code>
 
 ![Snake animation](https://github.com/panditajay73/panditajay73/blob/main/github-contribution-grid-snake.svg)
