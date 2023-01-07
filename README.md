@@ -80,10 +80,6 @@
  
 ---
 
-![](https://leetcard.jacoblin.cool/ajay_pandey?ext=activity)
-
----
-
 <!-- STATISTICS ABOUT PROFILE -->
 
  📶 Stats:<br><br>
